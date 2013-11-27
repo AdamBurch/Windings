@@ -1,13 +1,10 @@
-My name is Adam David Burch, and I make games.
+My name is Adam David Burch, and I make games. 
 
-I make games because I know that 
-1) I've been playing games my whole life 
-More importantly,
-2) my knowledge of games is pathetic,
-and lastly,
+I make games because I know that
+1) I've been playing games my whole life.
+2) my knowledge of games is pathetic, and lastly,
 3) my games are awesome, and worth making.
-
-I'VE BEEN PLAYING GAMES MY WHOLE LIFE
+I'VE BEEN PLAYING GAMES MY WHOLE LIFE 
 
 Anywhere there is shit to do, and shit that can be done about it, there is a game.
 
@@ -17,58 +14,51 @@ The to-clever computer scientist in me couldn't help but agree that damn near ev
 
 And when everything's a game, how can I stop playing?
 
-I went to high school.
+ I went to high school. 
+ Get good grades - Shit to do 
+Schoolwork - Shit that can be done about it 
 
-Get good grades - Shit to do
-Schoolwork - Shit that can be done about it
+ My friends and I used to eat Corn Nuts(tm) after throwing them into the air. 
+ Eat, Show off - Shit to do 
+Throwing Corn Nuts(tm), eating, diving, tackling, etc. - Shit that can be done about it 
 
-My friends and I used to eat Corn Nuts(tm) after throwing them into the air.
+ When on tile floors, I would impose rules limiting my movement (stay on like squares, chess-piece movement only, etc) 
+ Desire to play - Shit to do 
+Movement - Shit that can be done about it 
 
-Eat, Show off - Shit to do
-Throwing, eating, diving, tackling, etc. - Shit that can be done about it
+ Meditation 
+ Meditate - Shit to do 
+Meditate - Shit that can be done about it 
+ MY KNOWLEDGE OF GAMES IS PATHETIC 
 
-When on tile floors, I would impose rules limiting my movement (stay on like squares, chess-piece movement only, etc)
+ Let's look at my edge cases (the first and latter ones, respectively).
 
-Desire to play - Shit to do
-Movement - Shit that can be done about it
+ I went to high school.
+ Get good grades - Shit to do 
+Schoolwork - Shit that can be done about it 
 
-Meditation
+ Isn't school supposed to be about...learning? Why has the signifier (grades) taken over for the signified (learnins)?
 
-Meditate - Shit to do
-Meditate - Shit that can be done about it
+ Meditation 
+ Meditation - Shit to do 
+Meditate - Shit that can be done about it 
 
-MY KNOWLEDGE OF GAMES IS PATHETIC
-
-Let's look at our edge cases (the first and latter ones, respectively).
-
-I went to high school.
-
-Get good grades - Shit to do
-Schoolwork - Shit that can be done about it
-
-Isn't school supposed to be about...learning? Why has the signifier (grades) taken over for the signified (learnins)? 
-
-Meditation
-
-Meditation - Shit to do
-Meditate - Shit that can be done about it
-
-It is only by abandoning our conception of meditation as a game that we can meditate.
+ It is only by abandoning our conception of meditation as a game that we can meditate.
 
 Each of these things IS-A game. However, they're also NOT GAME.
+Everything that's NOT GAME IS-A game.
+It's just not supposed to be played.
+Playing something that's NOT GAME as a game can seem smart, but it's most likely stupid.
+The thing is simply NOT GAME.
 
-Everything that's NOT GAME IS-A game. It's just not supposed to be played. Playing something that's NOT GAME as a game can be smart, but it can also be stupid. The thing is simply NOT GAME.
+We now know the set of all things that are NOT GAME - Everything that IS-A game, but IS NOT meant to be played.
+We now know the set of all things that are GAME - Everything that IS-A game, and IS meant to be played.
 
-We now know the set of all things that are NOT GAME - Everything that IS-A game, but is NOT meant to be played.
+ But the question is, what do /I/ know about this set?
 
-We now know the set of all things that are GAME - Everything that IS-A game, and IS meant to be played. 
+ Not a damn thing.
+ MY GAMES ARE AWESOME, AND WORTH MAKING 
 
-What do /I/ know about this set?
+ This is a tautology. All games are awesome (exploring the possibility space for a game is THE BEST, and CREATING THAT POSSIBILITY SPACE IS THE DOUBLE BEST OMG), and if I want to do something, then it's worth doing.
 
-Not a damn thing.
-
-MY GAMES ARE AWESOME, AND WORTH MAKING
-
-This is a tautology. All games are awesome (exploring the possibility space for a game is THE BEST), and if I want to do something, then it's worth doing.
-
-My name is Adam David Burch, and this is my manifesto.
+ My name is Adam David Burch, and this is my manifesto.
